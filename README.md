@@ -5,4 +5,4 @@
 
 Samuel Rodrigues has 2 years of experience with software development. Studying of the Computer engineering at Universidade São Francisco, he currently serves as systems development analyst. 
 
-Passionate about computers, i believes that technology  empowerment the people and solves problems of society and new generations. Self-taught, he has experience with several different technologies, expert com VTEX IO and VTEX CMS.
+Passionate about computers, i believes that technology  empowerment the people and solves problems of society and new generations. Self-taught, he has experience with several different technologies, expert at VTEX IO and VTEX CMS.
