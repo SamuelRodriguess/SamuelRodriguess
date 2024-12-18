@@ -1,8 +1,5 @@
 # Hi, I'm Samuel Rodrigues 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SamuelRodriguess" alt="samuelrodriguesacct"/></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SamuelRodriguess" alt="samuelrodriguesacct"/></p>
-
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/samuel-rodrigues-48638618b/)
 
